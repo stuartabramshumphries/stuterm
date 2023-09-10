@@ -82,3 +82,4 @@ Here are some inspiration for this kind of terminal website. Only some features 
 ## Author
 
 - [@satnaing](https://satnaing.dev)
+# stuterm
